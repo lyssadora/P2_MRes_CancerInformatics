@@ -1,4 +1,4 @@
-# P2_MRes_CancerInformatics
+# MRes Cancer Biology (Cancer Informatics) Research Project 2
 Repository of Jupyter Notebooks used during my MRes Cancer Informatics Research Project 2
 
 ### Project Title
